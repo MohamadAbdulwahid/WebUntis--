@@ -35,4 +35,5 @@ The website will include the following features:
 
 ## Resources
 - Blazor Documentation
-- PostgreSQL Documentation
+- Supabase Documentation
+- PicoCSS
