@@ -23,8 +23,8 @@ The website will include the following features:
 ## Technologies Used
 - **HTML**
 - **CSS**
-- **PostgreSQL**
 - **Blazor**
+- **Supabase**
 
 
 ## Deliverable
