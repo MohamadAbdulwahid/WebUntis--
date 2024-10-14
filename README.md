@@ -1,7 +1,7 @@
 # Project Title: *WebUntis--*
 
 ## Project Overview
-// TODO: Rudi fill in pls
+// TODO 
 
 ## Objectives
 *Our main objective why we want to create this web page, is to create something similar to webuntis but much smaller AND most importantly, to include some notes for every single lecture for all the students that were not present for any reasons, everyone should be able to provide notes if he's a part of the class and everything has also to be checked by webpage admins ofc!*
